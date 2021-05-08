@@ -1,0 +1,21 @@
+Tests : 
+Les tests réstants : 
+- Tester Visivilité mobile et tablette
+- Tester bien l'administration 
+- créer un utilisateur 
+- Sécurité de login à vérifier
+- Sécuriter de wordpress 
+- globalisé appplication localhost en autre serveur  : utilisation shorrt code la bonne solution de résoudre ce problème là
+- Vérifier bien la partie francaise 
+- billang vérifier les liens qui contients les # ou bien ?
+- Vérifier pourquoi Azheimer ne ca marche pas
+- Vérifier pourquoi l'affichage \' 
+- ajouter la page de détail des produites dans validated primers sets 
+- SEO pour la version francaise  
+- Vérifier et organiser le code source
+- Puce online des titres 
+
+
+
+Samedi : 
+Je travail sur 
